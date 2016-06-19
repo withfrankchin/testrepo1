@@ -1,5 +1,4 @@
-package com.ztesoft.net
-
 public class HelloWord {
-	
+	public void set() {
+	}
 }
